@@ -50,6 +50,6 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 
 
