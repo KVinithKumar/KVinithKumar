@@ -51,5 +51,5 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-vinithkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinith-kumar-592582253/)](https://www.linkedin.com/in/vinith-kumar-592582253/)
 
