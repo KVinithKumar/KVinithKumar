@@ -52,4 +52,5 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-vinithkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinith-kumar-592582253/)](https://www.linkedin.com/in/vinith-kumar-592582253/)
+[![Instagram Badge](https://img.shields.io/badge/-@vinith__3006-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/vinith__3006/?igsh=cXkzem1lOHliMDh1&utm_source=qr)](https://www.instagram.com/vinith__3006/)
 
