@@ -43,7 +43,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: Aspiring Fullstack Developer
+- :computer: Aspiring Fullstack Development
 - :hourglass_flowing_sand: Exploring ML Models and learning AI things..
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
